@@ -106,16 +106,6 @@ TOKEN_AMOUNT=0.000001
 - Dexscreener: https://dexscreener.com/solana/A1zZXCq2DmqwVD4fLDzmgQ3ceY6LQnMBVokejqnHpump
 
 ---
-## Donate
-
-👉👌 6vT7nrqtbXDWVc8cRUtifxgfDZi19aW7qhcZg2hSepwb
-
----
 ## Support
 
 As the experimental result, the best environment for running this bot is to use `dedicated server located in NY`. 
-For support and further inquiries, please connect via Telegram: 📞 [jwest951227](https://t.me/jwest951227).
-
-## Scam Report
-
-https://github.com/Solana-Sniper-Bot-Download/Solana-Raydium-Pumpfun-Sniper-Bot/issues/2
